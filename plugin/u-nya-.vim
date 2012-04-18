@@ -1,5 +1,7 @@
 " vim:set ts=8 sts=2 sw=2 tw=0 et:
 
+scriptencoding utf-8
+
 let s:count = 0
 let s:pattern0 = [
       \ '(」・ω・)」うー！　',
